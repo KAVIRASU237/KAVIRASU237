@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kavirasu</h1>
 <h3 align="center">A passionate web developer </h3>
 
-- 🌱 I’m currently learning **DSA**
+- 
 
 - 📫 How to reach me **kavirasu237@gmail.com**
 

@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kavirasu</h1>
-<h3 align="center">A passionate web developer </h3>
+<h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KAVIRASU237&label=Profile%20views&color=0e75b6&style=flat" alt="KAVIRASU" /> </p>
 - 📫 How to reach me **kavirasu237@gmail.com**
 
